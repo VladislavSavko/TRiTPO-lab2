@@ -8,9 +8,9 @@
 1.2 [Назначение документа](#appointment)  
 1.3 [Бизнес-требования](#business_requirements)  
 1.3.1 [Исходные данные](#initial_data)  
-1.2.2 [Возможности бизнеса](#business_opportunities)  
-1.2.3 [Границы проекта](#project_boundary)  
-1.3 [Аналоги](#analogues)  
+1.3.2 [Возможности бизнеса](#business_opportunities)  
+1.3.3 [Границы проекта](#project_boundary)  
+1.4 [Аналоги](#analogues)  
 2 [Требования пользователя](#user_requirements)  
 2.1 [Программные интерфейсы](#software_interfaces)  
 2.2 [Интерфейс пользователя](#user_interface)  
@@ -24,11 +24,13 @@
 3.1 [Функциональные требования](#functional_requirements)  
 3.1.1 [Основные функции](#main_functions)  
 3.1.1.1 [Вход пользователя в приложение](#user_logon_to_the_application)  
-3.1.1.2 [Настройка профиля активного пользователя](#setting_up_the_profile_of_the_active_user)  
-3.1.1.3 [Загрузка новостей](#download_news)  
-3.1.1.4 [Просмотр информации об отдельной новости](#view_information_about_an_individual_newsletter)  
-3.1.1.5 [Выход пользователя из учётной записи](#active_user_change)  
-3.1.1.6 [Регистрация нового пользователя после входа в приложение](#add_new_user)  
+3.1.1.2 [Настройка профиля зарегистрированного пользователя](#setting_up_the_profile_of_the_active_user)  
+3.1.1.3 [Опрос пользователя о любимых жанрах фильмов](#download_news)  
+3.1.1.4 [Просмотр информации об отдельном фильме](#view_information_about_an_individual_newsletter)  
+3.1.1.5 [Выход зарегистрированного пользователя из учётной записи](#active_user_change)  
+3.1.1.6 [Регистрация нового пользователя после входа в приложение](#add_new_user)
+3.1.1.7 [Просмотр фильма онлайн](#add_new_user)
+3.1.1.8 [Скачивание фильма](#add_new_user)
 3.1.2 [Ограничения и исключения](#restrictions_and_exclusions)  
 3.2 [Нефункциональные требования](#non-functional_requirements)  
 3.2.1 [Атрибуты качества](#quality_attributes)  
@@ -43,6 +45,8 @@
 
 ## 1.1 Название продукта
 MovieBox
+<a name="intro"/>
+
 
 ## 1.2 Назначение документа
 В этом документе описаны функциональные и нефункциональные требования к приложению «MovieBox» для ОС Windows 10.
