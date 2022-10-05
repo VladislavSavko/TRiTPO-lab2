@@ -103,19 +103,19 @@ API: Java SE, Java EE
 <a name="user_interface"/>
 
 Окно входа в сервис.  
-![Окно входа в приложение](https://github.com/VladislavSavko/TRiTPO-lab2/blob/main/mockups/%D0%9C%D0%BE%D0%BA%D0%B0%D0%BF%20%D0%BE%D0%BA%D0%BD%D0%B0%20%D0%B2%D1%85%D0%BE%D0%B4%D0%B0%20%D0%B2%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5.png)
+![Окно входа в сервис](https://github.com/VladislavSavko/TRiTPO-lab2/blob/main/mockups/%D0%9C%D0%BE%D0%BA%D0%B0%D0%BF%20%D0%BE%D0%BA%D0%BD%D0%B0%20%D0%B2%D1%85%D0%BE%D0%B4%D0%B0%20%D0%B2%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5.png)
 
 Главное окно сервиса.
-![Главное окно приложения](https://github.com/VladislavSavko/TRiTPO-lab2/blob/main/mockups/%D0%9C%D0%BE%D0%BA%D0%B0%D0%BF%20%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%BA%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.png)
+![Главное окно сервиса](https://github.com/VladislavSavko/TRiTPO-lab2/blob/main/mockups/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BA%D0%B0%D0%BF%20%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%BA%D0%BD%D0%B0%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.png)
  
 Окно регистрации нового пользователя.
-![Окно регистрации нового пользователя](https://github.com/VladislavSavko/TRiTPO-lab2/blob/main/mockups/%D0%9C%D0%BE%D0%BA%D0%B0%D0%BF%20%D0%BE%D0%BA%D0%BD%D0%B0%20%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F.png)
+![Окно регистрации нового пользователя](https://github.com/VladislavSavko/TRiTPO-lab2/blob/main/mockups/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BA%D0%B0%D0%BF%20%D0%BE%D0%BA%D0%BD%D0%B0%20%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F.png)
 
 Главное окно сервиса после выбора фильма.
-![Главное окно приложения после выбора фильма](https://github.com/VladislavSavko/TRiTPO-lab2/blob/main/mockups/%D0%9C%D0%BE%D0%BA%D0%B0%D0%BF%20%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%BA%D0%BD%D0%B0%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D0%B0%20%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0.png)
+![Главное окно сервиса после выбора фильма](https://github.com/VladislavSavko/TRiTPO-lab2/blob/main/mockups/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BA%D0%B0%D0%BF%20%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%BA%D0%BD%D0%B0%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D0%B0%20%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0.png)
 
 Окно настройки профиля пользователя.
-![Окно настройки профиля пользователя](https://github.com/VladislavSavko/TRiTPO-lab2/blob/main/mockups/%D0%9C%D0%BE%D0%BA%D0%B0%D0%BF%20%D0%BE%D0%BA%D0%BD%D0%B0%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F.png)
+![Окно настройки профиля пользователя](https://github.com/VladislavSavko/TRiTPO-lab2/blob/main/mockups/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BA%D0%B0%D0%BF%20%D0%BE%D0%BA%D0%BD%D0%B0%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F.png)
 
 Окно просмотра фильма онлайн.
 ![Окно просмотра фильма онлайн](https://github.com/VladislavSavko/TRiTPO-lab2/blob/main/mockups/%D0%9C%D0%BE%D0%BA%D0%B0%D0%BF%20%D0%BE%D0%BA%D0%BD%D0%B0%20%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B0%20%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2.png)
